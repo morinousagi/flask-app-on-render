@@ -1,6 +1,6 @@
 # Deploy Flask App on Render
 
-### [**Link to Flask App**](https://morinousagi-flask-app.onrender.com/) - This **App** shows a button Menu that directs user to the different applications, e.g.,
+### [**Link to Flask App**](https://morinousagi-flask-app.onrender.com/) - shows a button Menu that directs user to the various demo apps, e.g.,
 
 - ### Multi-Agent RAG - Data Sharing & Model AI Governance [README](https://huggingface.co/spaces/morinousagi/multiagent-rag-ai-governance/blob/main/README.md)
 - ### NLP Intelligence Analyzer [README](https://huggingface.co/spaces/morinousagi/nlp-intelligence-analyzer/blob/main/README.md)
