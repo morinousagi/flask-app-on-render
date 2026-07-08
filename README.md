@@ -7,6 +7,7 @@ Featuring a button Menu that directs user to various demo apps, e.g.,
 - ### NLP Intelligence Analyzer [README](https://huggingface.co/spaces/morinousagi/nlp-intelligence-analyzer/blob/main/README.md)
 - ### Video Incident Understanding Agent [README](https://huggingface.co/spaces/morinousagi/video-incident-understanding-agent/blob/main/README.md)
 - ### ViT SEM Image Defect Dectecion [README](https://huggingface.co/spaces/morinousagi/pytorch-vit-defect-detect/blob/main/README.md)
+- ### AI Thyroid Ultrasound Classifier [README](https://github.com/morinousagi/ultrasound-ai)
 - ### Heart Disease Risk Prediction [README](https://huggingface.co/spaces/morinousagi/pytorch-transformer-anomaly/blob/main/README.md)
 - ### Unfriendly Unhelpful Entertaining [Chatbot](https://web-chat.global.assistant.watson.cloud.ibm.com/preview.html?region=jp-tok&integrationID=78ea9a0d-0044-4ebe-b6b2-7a8584e8a080&serviceInstanceID=5b98a954-462a-4f7c-b268-f13bf625c0bd)
 
