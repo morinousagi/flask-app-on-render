@@ -11,7 +11,8 @@ def index():
         "intel": "https://huggingface.co/spaces/morinousagi/nlp-intelligence-analyzer",
         "vlm": "https://huggingface.co/spaces/morinousagi/video-incident-understanding-agent",
         "chatbot": "https://web-chat.global.assistant.watson.cloud.ibm.com/preview.html?region=jp-tok&integrationID=78ea9a0d-0044-4ebe-b6b2-7a8584e8a080&serviceInstanceID=5b98a954-462a-4f7c-b268-f13bf625c0bd",
-        #"vit": "https://huggingface.co/spaces/morinousagi/pytorch-vit-defect-detect"
+        "ultrasound": "https://huggingface.co/spaces/morinousagi/ultrasound-ai",
+        #"vit": "https://huggingface.co/spaces/morinousagi/pytorch-vit-defect-detect",
     }
     return render_template('index.html', links=links)
 
