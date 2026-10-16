@@ -3,7 +3,7 @@
 ### 🌐[**Link to Web App**](https://morinousagi-flask-app.onrender.com/)
 
 Featuring a button Menu that directs user to various demo apps, e.g.,
-- ### Multi-Agent RAG - Data Sharing & Model AI Governance [README](https://huggingface.co/spaces/morinousagi/multiagent-rag-ai-governance/blob/main/README.md)
+- ### Multi-Agent RAG - Data Sharing, Responsible AI, Model AI Governance [README](https://huggingface.co/spaces/morinousagi/multiagent-rag-ai-governance/blob/main/README.md)
 - ### NLP Intelligence Analyzer [README](https://huggingface.co/spaces/morinousagi/nlp-intelligence-analyzer/blob/main/README.md)
 - ### Video Incident Understanding Agent [README](https://huggingface.co/spaces/morinousagi/video-incident-understanding-agent/blob/main/README.md)
 - ### ViT SEM Image Defect Dectecion [README](https://huggingface.co/spaces/morinousagi/pytorch-vit-defect-detect/blob/main/README.md)
